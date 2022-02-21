@@ -1,0 +1,2 @@
+# QAclass
+for learning purpose
